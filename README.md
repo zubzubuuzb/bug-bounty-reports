@@ -41,4 +41,3 @@ Suggested remote:
 ```
 gh repo create bug-bounty-reports-2025-2026 --private --source . --push
 ```
-# bug-bounty-reports
